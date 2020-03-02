@@ -1,6 +1,8 @@
 import keys
 import tweepy
 
+#API=Application programming interface
+#JSON is the type of data you get from API(interact with a website with enormouse of data)
 auth=tweepy.OAuthHandler(keys.consumer_key,keys.consumer_secret)
 auth.set_access_token(keys.access_token,keys.access_token_secret)
 api=tweepy.API(auth,wait_on_rate_limit=True,wait_on_rate_limit_notify=True)
