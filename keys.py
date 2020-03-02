@@ -1,0 +1,6 @@
+consumer_key='MFO2QREyRYZBFRZ6Y5P8oJK41'
+consumer_secret='2WQvx2iGDGcBaOzI2Y3XX90gsn26R37YP7rPJcSHJGADdLf8o5'
+access_token='1226965526389428229-IWZzlSzWMcN6WVcHjz5P4sKF1w9Ob5'
+access_token_secret='CTE0PSOF4effU7Y7FBb6pg9U7B1JqTPRZFVDDFUfNcgp7'
+
+#mapquest_key=''
